@@ -1,0 +1,11 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-color: azure;
+   
+    
+}
+.container__black{
+    background-color: black;
+    color: aqua;
+}
